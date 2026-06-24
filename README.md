@@ -75,6 +75,5 @@ This project demonstrates an end-to-end Data Analytics workflow using Python, SQ
 
 ## Author
 
-**Samudra Buragohain**
+**Samudra Sashanka Buragohain**
 
-Final Year Engineering Student | Data Analytics Enthusiast
